@@ -1,0 +1,85 @@
+*{
+    color: white;
+
+}
+
+body{
+    padding: 50px 200px;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.nav_bar{
+    display: flex;
+    background-color: #394166;
+    height: 60px;
+    align-items: center;
+    padding: 0 30px;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 40px;
+}
+.title{
+    padding-left: 10px;
+}
+.last{
+    display: flex;
+    margin-left: auto;
+}
+img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.lasttext{
+    padding-right:10px;
+}
+.con{
+    color: red;
+    flex: 1;
+}
+.con2{
+    margin: 0 17px;
+}
+.content{
+    display: flex;
+    margin-top: 15px;
+}
+.past{
+    margin-top: 20px;
+}
+.childCont{
+    background-color: violet;
+}
+.work{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    margin-right: 40px;
+    padding-left: 20px;
+}
+.lorem{
+    padding-left: 10px; 
+}
+.loremText{
+    display: flex;
+    margin-left: auto;
+}
+.con1-1, .con1-2{
+    background-color: #394166;
+}
+.iOS{
+    align-items: center;
+}
+.june{
+    border: 10px solid greenyellow;
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    margin-left: 50px;
+}

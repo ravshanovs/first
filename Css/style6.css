@@ -1,0 +1,46 @@
+.main{
+    position: relative;
+    font-family: sans-serif;
+    left: 50px;
+ }
+
+ .letter{
+    position: absolute;
+    font-size: 300px;
+    font-weight: 1000;
+ }
+ .letter1{
+    color: rgb(0, 0, 255, 0.7);
+ }
+ .letter2{
+    color: rgb(0, 128, 0, 0.8);
+    z-index: 1;
+    left: 134px;    
+ }
+ .letter3{
+    color: rgb(255, 255, 0, 0.8);
+    left: 325px;
+ }
+ .letter4{
+    color: rgb(128, 0, 128, 0.8);
+    z-index: 1;
+    left: 415px;
+ }
+ .letter5{
+    color: rgba(255, 68, 0, 0.89);
+    left: 600px;
+ }
+ .letter6{
+    color: rgba(228, 92, 176, 0.911);
+    z-index: 1;
+    left: 770px;
+ }
+ .letter7{
+    color: rgb(0, 0, 255, 0.7);
+    left: 900px;
+ }
+ .letter8{
+    color: rgb(255, 255, 0, 0.8);
+    left: 1080px;
+ }
+

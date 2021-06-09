@@ -1,0 +1,28 @@
+.work{
+    margin: 15px;
+    display: flex;
+}
+.block1{
+    flex: 1;
+    border: 1px solid black;
+    padding: 10px;
+    margin-right: 10px;
+    text-align: end;
+    padding-right: 150px;
+}
+.block2{
+    flex: 1;
+    border: 1px solid black;
+    padding-left: 20px;
+    margin-left: 10px;
+    text-align: end;
+    padding-right: 180px;
+}
+h2{
+    margin: 0;
+    text-align: left;
+}
+input{
+    margin-left: 50px;
+    margin-top: 10px;
+}
